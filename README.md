@@ -1,2 +1,2 @@
 # dotfiles
-My personal configuration  files/scripts for linux/windows etc.
+My personal configuration  files and scripts for linux/windows etc.
