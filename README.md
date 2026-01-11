@@ -5,6 +5,8 @@ This repository hosts my personal setup for **Kali Linux (WSL)** | **Kali VMs** 
 
 ![Badge](https://img.shields.io/badge/OS-Linux%20%7C%20Windows-blue) ![Badge](https://img.shields.io/badge/Shell-Zsh%20%7C%20PowerShell-green)
 
+![Demo](/media/PS7.png)
+
 ## 📂 What's inside?
 
 * **🐧 Linux / WSL:**
@@ -31,3 +33,11 @@ git clone [https://github.com/VillaArreola/dotfiles.git](https://github.com/Vill
 cd ~/.dotfiles
 chmod +x start.sh
 ./start.sh
+
+2. For Windows (PowerShell 7)
+Copy the content of windows_profile.ps1 to your PowerShell profile:
+
+PowerShell
+
+notepad $PROFILE
+# Paste content from this repo
